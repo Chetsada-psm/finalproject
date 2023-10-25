@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "nongbank",
+      "name": "nongbank rugkwan",
+      "password": "1234",
+      "email": "bank@gmail.com",
+      "phone": "012345679"
+    },
+    {
+      "id": "ฟหกฟห",
+      "name": "หฟกฟหก",
+      "password": "0123456",
+      "email": "dsfsd@asdas.com",
+      "phone": "05451385"
+    },
+    {
+      "id": "asdad",
+      "name": "asdasdas",
+      "password": "sadasdas",
+      "email": "asdasdas@afasdf.com",
+      "phone": "012345679"
+    }
+  ]
+}
